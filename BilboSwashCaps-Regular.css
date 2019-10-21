@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'BilboSwashCaps';
+	src: url('BilboSwashCaps-Regular.woff') format('woff'),
+         url('BilboSwashCaps-Regular.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
